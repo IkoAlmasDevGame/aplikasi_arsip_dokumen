@@ -12,3 +12,4 @@ username : superadmin
 <br>
 password : admin12345
 <br>
+<a href='http://localhost/aplikasi_arsip_dokumen/index.php'>Aplikasi Arsip Dokumen</a>
